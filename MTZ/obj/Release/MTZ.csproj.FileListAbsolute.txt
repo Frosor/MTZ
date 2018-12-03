@@ -1,0 +1,8 @@
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\bin\Release\MTZ.exe.config
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\bin\Release\MTZ.exe
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\bin\Release\MTZ.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Release\MTZ.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Release\MTZ.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Release\MTZ.exe
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Release\MTZ.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Release\MTZ.Form1.resources
