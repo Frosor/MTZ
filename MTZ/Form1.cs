@@ -252,14 +252,12 @@ namespace MTZ
                         //wenn der Titel der Mail Stempelzeiten, den Monat und das Jahr beinhaltet 
                         if (mi.Subject.Contains("Stempelzeiten") && mi.Subject.Contains(monat) && (mi.Subject.Contains(year) || mi.Subject.Contains(yearWithLastTwoDigits)))
                         {
-                            Console.WriteLine("TEST2" + mi.SentOn.Year.ToString());
                             MSG msg = new MSG(mi.Body, mi.Subject, mi.SenderName);
                             mails.Add(msg);
                             notFound = false;
                         }
                         if (mi.Subject.Contains("Stempelzeiten") && mi.Subject.Contains(monat))
                         {
-                            Console.WriteLine("TEST1" + mi.SentOn.Year.ToString());
                             MSG msg2 = new MSG(filterMultipleMonths(mi.Subject, mi.Body, monat, yearWithLastTwoDigits), mi.Subject, mi.SenderName);
                             mails.Add(msg2);
                             notFound = false;

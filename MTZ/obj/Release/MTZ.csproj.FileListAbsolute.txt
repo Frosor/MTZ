@@ -6,3 +6,4 @@ C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Release\MTZ.csp
 C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Release\MTZ.exe
 C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Release\MTZ.pdb
 C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Release\MTZ.Form1.resources
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Release\MTZ.csprojResolveAssemblyReference.cache
