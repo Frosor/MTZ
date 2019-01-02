@@ -249,8 +249,14 @@ namespace MTZ
                     {
                         MailItem mi = (MailItem)item;
 
+                        //ausnahme einbauen bei der der dezember als monat angegeben wird (jahr müsste eins hinzugefügt werden)
+                        if (monat.Equals("Dezember"))
+                        {
+                            year = (Int16.Parse(year) + 1).ToString();
+                        }
+                        
                         //wenn der Titel der Mail Stempelzeiten, den Monat und das Jahr beinhaltet 
-                        if (mi.Subject.Contains("Stempelzeiten") && mi.Subject.Contains(monat) && (mi.Subject.Contains(year) || mi.Subject.Contains(yearWithLastTwoDigits)))
+                        if (mi.Subject.Contains("Stempelzeiten") && mi.Subject.Contains(monat) && mi.ReceivedTime.Year == Int16.Parse(year) /*&& (mi.Subject.Contains(year) || mi.Subject.Contains(yearWithLastTwoDigits))*/)
                         {
                             MSG msg = new MSG(mi.Body, mi.Subject, mi.SenderName);
                             mails.Add(msg);
@@ -267,11 +273,14 @@ namespace MTZ
                     {
                         notFound = true;
                     }
+                
                 }
-                if(notFound)
+                if (notFound)
                     MessageBox.Show("Mit den von Ihnen angegebenen Daten konnten keine Stempelzeiten gefunden werden. Bitte überprüfen Sie Ihre Eingaben.");
-                else                
+                else
+                {
                     return mails;
+                }
             }
             return null;
         }
