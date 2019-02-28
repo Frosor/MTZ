@@ -1,0 +1,225 @@
+Debug Daten: 
+
+------------------------------
+USER_DATA: 
+Stein, Felix
+MAIL_BODY: 
+Hallo Felix, 
+
+ 
+
+hier sind deine Stempelzeiten für Oktober. 
+
+ 
+
+1.10.18
+
+8:06
+
+Stein, Felix
+
+1.10.18
+
+16:01
+
+Stein, Felix
+
+2.10.18
+
+8:18
+
+Stein, Felix
+
+2.10.18
+
+16:53
+
+Stein, Felix
+
+2.10.18
+
+16:54
+
+Stein, Felix
+
+15.10.18
+
+7:58
+
+Stein, Felix
+
+15.10.18
+
+15:35
+
+Stein, Felix
+
+16.10.18
+
+8:04
+
+Stein, Felix
+
+16.10.18
+
+15:36
+
+Stein, Felix
+
+17.10.18
+
+8:04
+
+Stein, Felix
+
+17.10.18
+
+15:35
+
+Stein, Felix
+
+18.10.18
+
+7:58
+
+Stein, Felix
+
+18.10.18
+
+15:48
+
+Stein, Felix
+
+19.10.18
+
+8:08
+
+Stein, Felix
+
+19.10.18
+
+15:31
+
+Stein, Felix
+
+22.10.18
+
+8:02
+
+Stein, Felix
+
+22.10.18
+
+16:06
+
+Stein, Felix
+
+23.10.18
+
+8:10
+
+Stein, Felix
+
+23.10.18
+
+16:38
+
+Stein, Felix
+
+24.10.18
+
+8:11
+
+Stein, Felix
+
+24.10.18
+
+15:49
+
+Stein, Felix
+
+25.10.18
+
+8:04
+
+Stein, Felix
+
+25.10.18
+
+16:07
+
+Stein, Felix
+
+26.10.18
+
+7:58
+
+Stein, Felix
+
+26.10.18
+
+14:14
+
+Stein, Felix
+
+ 
+
+Gruß 
+
+ 
+
+Kristina 
+
+(3627
+
+ 
+
+
+Rheinmetall Electronics GmbH 
+Brüggeweg 54
+28309 Bremen / Germany 
+
+Sitz der Gesellschaft : Bremen
+Amtsgericht Bremen HRB 9659
+
+Geschäftsführung: 
+Susanne Wiegand (Vorsitzende der GF) 
+Thorsten Quade
+
+Vorsitzender des Aufsichtsrats: 
+Dr. Rolf Giebeler
+
+This email may contain confidential information. If you are not the intended addressee, or if the information provided in this email including any attachments) is evidently not destined for you, kindly inform us promptly and delete the message received in error [including any attachments) by erasing it from all your computers and other storage devices or media and destroying any hard copies thereof. Any unauthorized processing, forwarding, disclosure, distribution, divulgation, storage, printout or other use of this message or its attachment is prohibited. If your system is infected or otherwise bugged by any virus that is carried by this email, we disclaim any liability whatsoever for the ensuing loss or damage unless caused by our intention or gross negligence. 
+
+
+ 
+
+
+
+
+RAW_TIME_DATA: 
+8:06
+16:01
+8:18
+16:53
+16:54
+7:58
+15:35
+8:04
+15:36
+8:04
+15:35
+7:58
+15:48
+8:08
+15:31
+8:02
+16:06
+8:10
+16:38
+8:11
+15:49
+8:04
+16:07
+7:58
+14:14

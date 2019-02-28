@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\bin\Debug\MTZ.exe.config
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Debug\MTZ.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Debug\MTZ.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\bin\Debug\MTZ.exe
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\bin\Debug\MTZ.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Debug\MTZ.exe
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Debug\MTZ.pdb
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Debug\MTZ.Form1.resources
+C:\Users\admin\documents\visual studio 2013\Projects\MTZ\MTZ\obj\Debug\MTZ.csprojResolveAssemblyReference.cache
+C:\Users\stein_f\Downloads\Desktop\MTZ-master\MTZ\bin\Debug\MTZ.exe.config
+C:\Users\stein_f\Downloads\Desktop\MTZ-master\MTZ\obj\Debug\MTZ.exe
+C:\Users\stein_f\Downloads\Desktop\MTZ-master\MTZ\obj\Debug\MTZ.pdb
+C:\Users\stein_f\Downloads\Desktop\MTZ-master\MTZ\bin\Debug\MTZ.exe
+C:\Users\stein_f\Downloads\Desktop\MTZ-master\MTZ\bin\Debug\MTZ.pdb
+C:\Users\stein_f\Downloads\Desktop\MTZ-master\MTZ\obj\Debug\MTZ.csprojResolveAssemblyReference.cache
+C:\Users\stein_f\Downloads\Desktop\MTZ-master\MTZ\obj\Debug\MTZ.Form1.resources
+C:\Users\stein_f\Downloads\Desktop\MTZ-master\MTZ\obj\Debug\MTZ.Properties.Resources.resources
+C:\Users\stein_f\Downloads\Desktop\MTZ-master\MTZ\obj\Debug\MTZ.csproj.GenerateResource.Cache
